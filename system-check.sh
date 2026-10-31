@@ -1,1 +1,1 @@
-echo 'Hello Emmanuel! DevOps System Check is running...'
+echo 'System Check v2: Running smoothly for Emmanuel!'
