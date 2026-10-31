@@ -21,7 +21,7 @@ I am a beginner learning DevOps fundamentals through practical exercises.
 
 - [] Created my first GitHub repository
 - [] Created my README file
-- [ ] Practising Git and GitHub
+- [] Practising Git and GitHub
 
 ## My Career Goal
 
